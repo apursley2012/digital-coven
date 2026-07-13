@@ -9,7 +9,7 @@ import {
 from "../../useScreenInit.js";
 
 function d() {
-	const r = "MORGAN",
+	const r = "Alex Morgan",
 		l = "Source Code, Summoned.",
 		[o, c] = a.useState(""),
 		[m, s] = a.useState(!1);
